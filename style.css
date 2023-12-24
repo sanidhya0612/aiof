@@ -1,0 +1,48 @@
+body{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    margin-top: 0px;
+    height: 10%;
+    font-size: 40px;
+    color: #228b22;
+}
+
+.subheading
+{
+    width: 100%;
+    margin-top: -22px;
+    font-size:20px;
+}
+
+#inp1
+{
+
+    font-size: 30px;
+}
+
+#inp
+{
+    width: 400px;
+    height: 25pxpx;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 170px;
+    box-shadow:5px 5px 5px white;
+}
+
+#start,#status_object,#status_found
+{
+    font-size: 20px;
+    border-radius: 30px;
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+}
